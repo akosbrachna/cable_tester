@@ -7,3 +7,5 @@ Wiring mismatch testing is based on voltage division.
 Cable length measurement is based on signal reflection.
 
 ![Alt text](circuit_schematic.png?raw=true "Circuit schematic")
+
+![Alt text](cable_tester.jpg?raw=true "Device")
