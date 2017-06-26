@@ -7,14 +7,11 @@
 #include "config_45k50.h"
 #include "lcd.h"
 #include "menu.h"
-#include <timers.h>
 #include "std_lib.h"
 #include "sort.h"
 #include "wire_match.h"
 #include "wire_match_calibration.h"
 #include "cable_length.h"
-#include <adc.h>
-#include <ctmu.h>
 
 void init(void);
 
