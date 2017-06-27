@@ -10,7 +10,7 @@ The microcontroller is a PIC18F45k50. This model is used because it has a CTMU u
 microcontroller to measure nanosecond short times which is required for cable length measurement. 
 The C program was written in MPLAB IDE.
 
-Circuit was made in Eagle CAD circuit designer.
+The SMD circuit was designed in Eagle CAD circuit designer.
 
 Master circuit schematic:
 
