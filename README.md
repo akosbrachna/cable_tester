@@ -6,6 +6,10 @@ Wiring mismatch testing is based on voltage division.
 
 Cable length measurement is based on signal reflection.
 
+The microcontroller is a PIC18F45k50. The C program was written in MPLAB IDE.
+
+Circuit was made in Eagle CAD circuit designer.
+
 Master circuit schematic:
 
 ![Alt text](eagleCAD/master/circuit_schematic_master.png?raw=true "Circuit schematic")
