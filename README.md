@@ -6,6 +6,8 @@ Wiring mismatch testing is based on voltage division.
 
 Cable length measurement is based on signal reflection.
 
-![Alt text](circuit_schematic.png?raw=true "Circuit schematic")
+![Alt text](eagleCAD/master/circuit_schematic_master.png?raw=true "Circuit schematic")
 
-![Alt text](cable_tester.jpg?raw=true "Device")
+![Alt text](eagleCAD/master/cable_tester_master.jpg?raw=true "Device")
+
+![Alt text](eagleCAD/remote/circuit_schematic_remote.png?raw=true "Circuit schematic")
