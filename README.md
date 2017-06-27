@@ -10,8 +10,8 @@ Master circuit schematic:
 
 ![Alt text](eagleCAD/master/circuit_schematic_master.png?raw=true "Circuit schematic")
 
-![Alt text](eagleCAD/master/cable_tester_master.jpg?raw=true "Device")
-
 Remote circuit schematic:
 
 ![Alt text](eagleCAD/remote/circuit_schematic_remote.png?raw=true "Circuit schematic")
+
+![Alt text](eagleCAD/master/cable_tester_master.jpg?raw=true "Device")
