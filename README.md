@@ -22,3 +22,5 @@ Remote circuit schematic:
 ![Alt text](eagleCAD/remote/circuit_schematic_remote.png?raw=true "Circuit schematic")
 
 ![Alt text](eagleCAD/master/cable_tester_master.jpg?raw=true "Device")
+
+![Alt text](eagleCAD/master/cable_tester_master_remote.jpg?raw=true "Device")
